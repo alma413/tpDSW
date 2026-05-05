@@ -2,7 +2,7 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Alfonso, Avril Antonella
+* 53236 - Alfonso, Avril Antonella
 * 52184 - Luraschi Zárate, Alma
 * 52879 - Rau, Anelen
 

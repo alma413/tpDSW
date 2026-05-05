@@ -35,7 +35,7 @@ Regularidad:
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD Tipo Habitacion<br>2. CRUD Servicio<br>3. CRUD Localidad<br>4. CRUD Provincia<br>5. CRUD Habitación<br>6. CRUD Empleado<br>7. CRUD Cliente|
+|CRUD |1. CRUD Socio<br>2. CRUD Evento<br>3. CRUD Entrada<br>4. CRUD Deporte<br>5. CRUD Categoría<br>6. CRUD Horario Entrenamiento<br>7. CRUD Cuota<br>8. CRUD Histórico Cuota<br>9. CRUD Sueldo<br>10. CRUD Histórico Sueldo<br>11. CRUD Solicitud Socio<br>12. CRUD Solicitud Inscripción|
 |CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva<br>3. Realizar el check-out y facturación de estadía y servicios|
 
 

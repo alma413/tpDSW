@@ -2,7 +2,9 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
+* legajo - Alfonso, Avril Antonella
+* 52184 - Luraschi Zárate, Alma
+* 52879 - Rau, Anelen
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
@@ -11,7 +13,7 @@
 
 ## Tema
 ### Descripción
-*2 a 6 líneas describiendo el negocio (menos es más)*
+Nombre del club amateur a definir. "Club" es una página/aplicación dedicada a la gestión del club amateur del mismo nombre para facilitar servicios a su comunidad. En este sistema pueden loguearse usuarios que, según su rol (administrador, entrenador, deportista, socio o ninguno de ellos), tendrán accesos específicos dentro de la web. El usuario común podrá comprar entradas para los eventos deportivos. Los socios podrán pagar sus cuotas desde la app e inscribirse a cualquier deporte. Los entrenadores verán el histórico de su sueldo y su próxima fecha de cobro. 
 
 ### Modelo
 ![imagen del modelo]()

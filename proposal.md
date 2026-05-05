@@ -23,8 +23,6 @@ Nombre del club amateur a definir. "Club" es una página/aplicación dedicada a 
 
 ### Alcance Mínimo
 
-*Nota*: el siguiente es un ejemplo para un grupo de 3 integrantes para un sistema de hotel. El 
-
 Regularidad:
 |Req|Detalle|
 |:-|:-|

@@ -29,23 +29,20 @@ Regularidad:
 |CRUD simple|1. CRUD Socio<br>2. CRUD Evento<br>3. CRUD Deporte|
 |CRUD dependiente|1. CRUD Categoría {depende de} CRUD Deporte<br>2. CRUD Entrada {depende de} CRUD Evento y Usuario|
 |Listado<br>+<br>detalle| 1. Listado de socios filtrado por estado, muestra id_usuario y nro_socio => detalle CRUD Usuario<br> 2. Listado de deportistas filtrado por deporte, muestra id_usuario, legajo, nombre, apellido => detalle muestra datos completos de Categoría y Usuario|
-|CUU/Epic|1. Registo de usuario<br>2. Venta de entrada|
+|CUU/Epic|1. Registar usuario<br>2. Comprar de entrada|
 
 
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Socio<br>2. CRUD Evento<br>3. CRUD Entrada<br>4. CRUD Deporte<br>5. CRUD Categoría<br>6. CRUD Horario Entrenamiento<br>7. CRUD Cuota<br>8. CRUD Histórico Cuota<br>9. CRUD Sueldo<br>10. CRUD Histórico Sueldo<br>11. CRUD Solicitud Socio<br>12. CRUD Solicitud Inscripción|
-|CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva<br>3. Realizar el check-out y facturación de estadía y servicios|
+|CUU/Epic|1. Registar usuario<br>2. Comprar de entrada<br>3. Solicitar ser socio|
 
 
 ### Alcance Adicional Voluntario
 
-*Nota*: El Alcance Adicional Voluntario es opcional, pero ayuda a que la funcionalidad del sistema esté completa y será considerado en la nota en función de su complejidad y esfuerzo.
-
 |Req|Detalle|
 |:-|:-|
-|Listados |1. Estadía del día filtrado por fecha muestra, cliente, habitaciones y estado <br>2. Reservas filtradas por cliente muestra datos del cliente y de cada reserve fechas, estado cantidad de habitaciones y huespedes|
-|CUU/Epic|1. Consumir servicios<br>2. Cancelación de reserva|
-|Otros|1. Envío de recordatorio de reserva por email|
+|Listados |1.Listado de entrenadores filtrado por deporte, muestra id_usuario, legajo, tipo_entrenador nombre, apellido => detalle muestra datos completos de Categoría y Usuario|
+|CUU/Epic|1. Solicitar inscribirse a categoría<br>2. Entrenador consulta el histórico de su sueldo<br>3. Socio paga su cuota<br>4. Administrador da de baja a un socio|
 

@@ -44,5 +44,5 @@ Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |Listados |1.Listado de entrenadores filtrado por deporte, muestra id_usuario, legajo, tipo_entrenador nombre, apellido => detalle muestra datos completos de Categoría y Usuario|
-|CUU/Epic|1. Solicitar inscribirse a categoría<br>2. Entrenador consulta el histórico de su sueldo<br>3. Socio paga su cuota<br>4. Administrador da de baja a un socio|
+|CUU/Epic|1. Solicitar inscribirse a categoría<br>2. Entrenador consulta el histórico de su sueldo y próxima fecha de cobro<br>3. Socio paga su cuota<br>4. Administrador da de baja a un socio|
 

@@ -16,7 +16,7 @@
 Arcadia es una página dedicada a la gestión del club amateur del mismo nombre que facilita servicios a su comunidad. En este sistema pueden loguearse usuarios que, según su rol (administrador, entrenador, deportista, socio o ninguno de ellos), tendrán accesos específicos dentro de la web. El usuario común podrá comprar entradas para los eventos deportivos. Los socios podrán pagar sus cuotas desde la app e inscribirse a cualquier deporte. Los entrenadores verán el histórico de su sueldo y su próxima fecha de cobro. 
 
 ### Modelo
-![imagen del modelo](Modelo DSW.jpg)
+![imagen del modelo](ModeloDSW.jpg)
 
 
 ## Alcance Funcional 
